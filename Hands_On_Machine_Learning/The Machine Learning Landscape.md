@@ -47,6 +47,7 @@ The system must learn by itself what is the best strategy to get the most *rewar
 	- Agents
 - Use cases:
 	- Robots
+![[chp1_figure_1-12.jpeg]]
 # Batch vs. Online Learning, 17 - 21
 Whether a system can learn incrementally from a stream of incoming data or it requires the full dataset. 
 ## Batch Learning
@@ -112,3 +113,5 @@ The *inferences*, predictions, a model makes are made on new data based on what 
 3. Holdout Validation
 4. Cross-Validation
 5. Train-Test-Validate Split
+# Overview of ML Categories
+![[chp1_figure_1-20.jpg]]
