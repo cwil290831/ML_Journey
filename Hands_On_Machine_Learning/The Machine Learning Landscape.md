@@ -114,4 +114,4 @@ The *inferences*, predictions, a model makes are made on new data based on what 
 4. Cross-Validation
 5. Train-Test-Validate Split
 # Overview of ML Categories
-![[chp1_figure_1-20.jpg]]
+![overview](https://github.com/cwil290831/ML_Journey/blob/421e60813c0f56bedfc61943616d32c7c8d08a11/Hands_On_Machine_Learning/chp1_figure_1-20.jpg)
