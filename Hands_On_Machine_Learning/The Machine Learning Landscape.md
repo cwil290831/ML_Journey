@@ -47,7 +47,11 @@ The system must learn by itself what is the best strategy to get the most *rewar
 	- Agents
 - Use cases:
 	- Robots
-![[chp1_figure_1-12.jpeg]]
+<br>
+
+![reinforcement](https://github.com/cwil290831/ML_Journey/blob/3db356d11903671dbe8db75d17a9120129e70456/Hands_On_Machine_Learning/chp1_figure_1-12.jpeg)
+
+
 # Batch vs. Online Learning, 17 - 21
 Whether a system can learn incrementally from a stream of incoming data or it requires the full dataset. 
 ## Batch Learning
