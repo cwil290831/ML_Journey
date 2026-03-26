@@ -7,3 +7,4 @@ This repository acts as a place for me to save my work and related notes, and be
 1. Exploratory Data Analysis
 2. Linear Regression
 3. Classification
+4. Hands-On Machine Learning
