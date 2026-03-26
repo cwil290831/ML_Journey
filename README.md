@@ -3,8 +3,10 @@ I'm a Software Engineer with experience in Automation seeking to add Machine Lea
 
 This repository acts as a place for me to save my work and related notes, and be able to share my journey with the world!
 
-## Directories
+## Knowledge
 1. Exploratory Data Analysis
 2. Linear Regression
-3. Classification
-4. Hands-On Machine Learning
+3. Classification <br>
+## Bootcamps and Books
+5. Hands-On Machine Learning
+6. ml_zoomcamp
